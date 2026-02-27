@@ -1,0 +1,13 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "claudeCode.useTerminal": true,
+
+    "window.autoDetectColorScheme": false,
+    "workbench.colorTheme": "Default High Contrast",
+    "workbench.preferredLightColorTheme": "Default Light+",
+
+    "editor.fontWeight": "500",
+    "markdown.preview.fontSize": 16,
+    "markdown.preview.lineHeight": 1.7
+}
